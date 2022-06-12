@@ -13,4 +13,4 @@
   
 
    [materias de apoio] 
-   Resolução: questionario para a certificação dos conhecimentos  
+   *Resolução: questionario para a certificação dos conhecimentos  
